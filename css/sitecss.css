@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	padding-top: 50px;
+}
+
+.main{
+	min-height: 600px;
+	position: relative;
+	background: #222;
+	background-repeat: no-repeat;
+	background-position: center 0;
+	background-size: cover;
+}
+
+.introHolder{
+	padding-top:80px;
+	padding-bottom:30px;
+}
+
+.introText{
+	font-family: "PingHei","Lucida Grande", "Lucida Sans Unicode", "STHeitiSC", "Helvetica","Arial","Verdana","sans-serif";
+	font-size: 25px;
+	line-height: 1.6;
+}
+
+.intro5Holder{
+	padding-top:80px;
+	padding-bottom:30px;
+	background-image:url(../img/intro5.png);
+	background-position:center;
+	height:400px;
+}
